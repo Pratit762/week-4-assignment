@@ -131,6 +131,6 @@ This project gave me practical exposure to:
 
 ## 📬 Author
 
-- **Name:** *[Your Full Name]*
+- **Name:** *Pratit Agnihotri*
 - **Course:** MANG6093 – Robotic Process Automation
 - **Week:** 4
